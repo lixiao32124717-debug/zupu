@@ -1,0 +1,7 @@
+{
+  "name": "GenealogyGenius",
+  "description": "A mobile-first family tree application powered by Gemini AI to visualize lineage and generate historical biographies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
